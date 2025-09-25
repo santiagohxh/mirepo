@@ -2,3 +2,6 @@ Nueva York
 Tokio
 paris
 Londres
+Madrid
+Roma
+Berlin
